@@ -1,6 +1,6 @@
 hello-world
 ===========
-This is a TEST TEST
+New Test - Oct 24
 
 [![Deploy to Docker Cloud](https://files.cloud.docker.com/images/deploy-to-dockercloud.svg)](https://cloud.docker.com/stack/deploy/)
 
